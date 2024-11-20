@@ -1,0 +1,6 @@
+{
+    "agent_name": "Agent Name",
+    "agent_slug": "{{ cookiecutter.agent_name.lower().replace(' ', '_') }}",
+    "agent_framework": "LangGraph",
+    "version": "0.0.1"
+}
