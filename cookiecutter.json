@@ -6,5 +6,6 @@
     "description": "A template for building AI agents",
     "agent_framework": "LangGraph",
     "version": "0.0.1",
-    "year": "2024"
+    "year": "2024",
+    "license": "MIT"
 }
