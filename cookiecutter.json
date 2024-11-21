@@ -1,6 +1,9 @@
 {
     "agent_name": "Agent Name",
     "agent_slug": "{{ cookiecutter.agent_name.lower().replace(' ', '_') }}",
-    "agent_framework": "LangGraph",
-    "version": "0.0.1"
+    "agent_framework": "Langgraph",
+    "version": "0.0.1",
+    "task_server_name": null,
+    "checkpoint_db_name": null,
+    "replicas": 1
 }
