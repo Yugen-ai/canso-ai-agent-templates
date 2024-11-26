@@ -5,6 +5,7 @@ WORKDIR /opt/ai-agent/
 RUN mkdir src
 
 COPY src ./src
+COPY .env ./
 COPY config.yaml ./config.yaml
 COPY requirements.txt ./
 
