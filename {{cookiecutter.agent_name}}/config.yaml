@@ -1,0 +1,4 @@
+agent_name: {{ cookiecutter.agent_name }}
+task_server_name: {{ cookiecutter.task_server_name }}
+checkpoint_db_name: {{ cookiecutter.checkpoint_db_name }}
+replicas: {{ cookiecutter.replicas }}
