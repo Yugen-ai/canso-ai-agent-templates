@@ -1,9 +1,9 @@
 {
-    "agent_name": "Agent Name",
-    "agent_slug": "{{ cookiecutter.agent_name.lower().replace(' ', '_') }}",
+    "agent_name": null,
     "agent_framework": "Langgraph",
     "version": "0.0.1",
     "task_server_name": null,
     "checkpoint_db_name": null,
-    "replicas": 1
+    "replicas": 1,
+    "iam_role_arn": null
 }
