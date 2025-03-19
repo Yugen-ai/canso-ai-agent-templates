@@ -1,2 +1,2 @@
-gru==0.0.1rc25
+gru==0.0.1rc31
 python-dotenv==1.0.1
